@@ -1,10 +1,4 @@
-//
-//  UIWindow+XHNewFeature.m
-//  0324-XH彩票
-//
-//  Created by mac on 15-3-28.
-//  Copyright (c) 2015年 mac. All rights reserved.
-//
+
 
 #import "UIWindow+XHNewFeature.h"
 #import "XHFeatureViewController.h"
